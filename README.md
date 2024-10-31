@@ -1,2 +1,1 @@
-# Googleadmobkey
-newadmob
+ca-app-pub-5596520817573540~2742843368
