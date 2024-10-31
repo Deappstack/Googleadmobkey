@@ -1,0 +1,2 @@
+# Googleadmobkey
+newadmob
